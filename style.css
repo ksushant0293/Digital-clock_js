@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(53, 92, 125);
+    color: #fff;
+}
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.clock{
+    font-size: 100px;
+}
